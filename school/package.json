@@ -1,0 +1,13 @@
+{
+  "name": "schoolapp",
+  "version": "v0.0.1",
+  "private" : true,
+  "main": "index.js",
+  "dependencies": {
+    "express": "4.6.1",
+    "request": "2.38.0"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}

@@ -1,0 +1,1 @@
+define(function(require){    var foo = require('components/foo/foo.js'),     head = require('components/head/head.js');    foo.sayHi();    head.initSidebar();    console.log('index.js');});
